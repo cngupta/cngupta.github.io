@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "RECoN: rice environment coexpression network for systems level analysis of abiotic-stress response"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2009-10-01-paper-title-number-1
+date: 2017-09-20
+venue: 'Frontiers in Plant Science'
+paperurl: 'https://www.frontiersin.org/articles/10.3389/fpls.2017.01640/full'
+citation: 'A Krishnan, C Gupta, MMR Ambavaram, A Pereira. (2017). &quot;RECoN: rice environment coexpression network for systems level analysis of abiotic-stress response.&quot; <i>Front. in Plant Sci.</i>.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://www.frontiersin.org/articles/10.3389/fpls.2017.01640/full)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: A Krishnan, C Gupta, MMR Ambavaram, A Pereira. (2017). &quot;RECoN: rice environment coexpression network for systems level analysis of abiotic-stress response.&quot; <i>Front. in Plant Sci.</i>.
