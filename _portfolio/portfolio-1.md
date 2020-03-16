@@ -1,5 +1,5 @@
 ---
-title: "Gene Networks"
+title: "RECoN"
 excerpt: "<br/><img src='/images/recon.png'>"
 collection: portfolio
 ---
