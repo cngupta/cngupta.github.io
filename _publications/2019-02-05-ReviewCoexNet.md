@@ -10,4 +10,4 @@ citation: 'Chirag Gupta and Andy Pereira. (2019). &quot;Recent advances in gene 
 
 [Download paper here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6364378/pdf/f1000research-8-18816.pdf)
 
-Recommended citation: Chirag Gupta and Andy Pereira. (2019). &quot;Recent advances in gene function prediction using context-specific coexpression networks in plants.&quot; <i>F1000 Research</i>.
+Recommended citation: Chirag Gupta and Andy Pereira. (2019). &quot;Recent advances in gene function prediction using context-specific coexpression networks in plants.&quot; <i>F1000 Research</i>.	
