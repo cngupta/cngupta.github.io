@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Recent advances in gene function prediction using context-specific coexpression networks in plants"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2009-10-01-paper-title-number-1
+date: 2019-02-05
+venue: 'F1000 Research'
+paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6364378/'
+citation: 'Chirag Gupta and Andy Pereira. (2019). &quot;Recent advances in gene function prediction using context-specific coexpression networks in plants.&quot; <i>F1000 Research</i>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6364378/pdf/f1000research-8-18816.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Chirag Gupta and Andy Pereira. (2019). &quot;Recent advances in gene function prediction using context-specific coexpression networks in plants.&quot; <i>F1000 Research</i>.
