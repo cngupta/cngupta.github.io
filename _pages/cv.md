@@ -11,25 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Cell and Molecular Biology, Uni. of Arkansas, Fayettevile, USA 2017 
-* M.S. in Bioinformatics, Sardar Patel Uni., India, 2009
-* B.S. in Bioinformatics, Sardar Patel Uni., India, 2007
+* Ph.D in Cell and Molecular Biology, University of Arkansas, USA, 2017 
+* M.S. in Bioinformatics, Sardar Patel University, India, 2009
+* B.S. in Bioinformatics, Sardar Patel University, India, 2007
 
 
 Research Experience 
 ======
-* 2017 - present: Postdoctoral Research Associate
-  * University of Arkansas
-  * Integration of multi-omics data, Novel methods for gene prioritization
+* Postdoctoral Research Associate, University of Arkansas, (2017 - present)
+  * Rice genetic variation, integration of multi-omics data, methods for gene prioritization
   * Supervisor: Andy Pereira
 
-* 2012 - 2017: Research Assistant
-  * University of Arkansas
+* Research Assistant, University of Arkansas, (2012 - 2017)
   * Transcriptome-based Gene Networks for Systems-level Analysis of Plant Gene Functions
   * Supervisor: Andy Pereira
   
-* 2009 - 2009: Student Researcher
-  * Sardar Patel University
+* Student Researcher, Sardar Patel University, (2009) 
   * Insilico analysis of fusion proteins in cancer
 
 
@@ -39,11 +36,11 @@ Skills
 	* Environment: Linux, Docker, Google Cloud 
 	* Programming: Perl; Software: Tophat, STAR, GATK, Samtools, HTSeq, MACS etc. 
 *	Proficient in statistical analysis of genomic data 
-	* differential gene expression, coexpression networks, Clustering, support vector machines, R
+	* Differential gene expression, coexpression networks, Clustering, support vector machines, R
 *	Proficient in development of web tools for data analysis and visualization 
 	* Shiny, PHP, mySQL, CytoscapeWeb   
 *	Basic use of homology modeling and drug designing 
-	* Software: Arguslab, MolSoft, Rasmol, I-TASSER)
+	* Software: Arguslab, MolSoft, Rasmol, I-TASSER
 
 
 
