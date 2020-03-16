@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,23 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Bioinformatics, Sardar Patel Uni., India, 2007
+* Ph.D in Cell and Molecular Biology, Uni. of Arkansas, Fayettevile, USA 2017 
 * M.S. in Bioinformatics, Sardar Patel Uni., India, 2009
-* Ph.D in Cell and Molecular Biology, Uni. of Arkansas, Fayettevile, USA 2017
+* B.S. in Bioinformatics, Sardar Patel Uni., India, 2007
 
-Research anf professional experience
 ======
-* 2017: Postdoctoral Associate
-  * University of Arkansas
-  * Genomic data integration for crop genetics studies
-  
-  
-* Summer 2012: Research Assistant
-  * University of Arkansas
-  * Supervisor: Andy Pereira
-  * Transcriptome-based gene networks for systems-level analysis of plant gene function
-
-
+Research Experience 
+======
+* 2017 - present 	Postdoctoral Research Associate, University of Arkansas
+* 2012 - 2017	Graduate Research Assistant, University of Arkansas
 
 
 Publications
