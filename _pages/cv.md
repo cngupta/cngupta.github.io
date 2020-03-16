@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,28 +8,27 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<br>
 Education
 ======
 * Ph.D in Cell and Molecular Biology, University of Arkansas, USA, 2017 
 * M.S. in Bioinformatics, Sardar Patel University, India, 2009
 * B.S. in Bioinformatics, Sardar Patel University, India, 2007
 
-
+<br>
 Research Experience 
 ======
 * Postdoctoral Research Associate, University of Arkansas, (2017 - present)
   * Rice genetic variation, integration of multi-omics data, methods for gene prioritization
-  * Supervisor: Andy Pereira
 
 * Research Assistant, University of Arkansas, (2012 - 2017)
-  * Transcriptome-based Gene Networks for Systems-level Analysis of Plant Gene Functions
+  * Transcriptome-based gene networks for systems-level analysis of plant gene functions
   * Supervisor: Andy Pereira
   
 * Student Researcher, Sardar Patel University, (2009) 
   * Insilico analysis of fusion proteins in cancer
 
-
+<br>
 Skills
 ======
 *	Proficient in development and distribution of automated bioinformatics pipelines for genomic data processing and analysis 
@@ -43,7 +42,7 @@ Skills
 	* Software: Arguslab, MolSoft, Rasmol, I-TASSER
 
 
-
+<br>
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -51,7 +50,7 @@ Publications
   {% endfor %}</ul>
   
 
-
+<br>
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -59,7 +58,7 @@ Talks
   {% endfor %}</ul>
   
   
-
+<br>
 Service
 ======
 * Manuscript reviewer: Plant Physiology, Frontiers in Plant Science, Frontiers in Genetics, Nature Scientific Reports, Rice, Plant Cell Reports
