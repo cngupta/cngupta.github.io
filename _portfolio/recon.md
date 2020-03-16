@@ -1,6 +1,6 @@
 ---
 title: "Gene Coexpression Networks"
-excerpt: "<br/><img src='/images/Networks.png'>"
+excerpt: "<br/><img src='/images/networks.png'>"
 collection: portfolio
 ---
 
