@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
-<br>
+
 Education
 ======
 * Ph.D in Cell and Molecular Biology, University of Arkansas, USA, 2017 
 * M.S. in Bioinformatics, Sardar Patel University, India, 2009
 * B.S. in Bioinformatics, Sardar Patel University, India, 2007
 
-<br>
+
 Research Experience 
 ======
 * Postdoctoral Research Associate, University of Arkansas, (2017 - present)
@@ -28,7 +28,7 @@ Research Experience
 * Student Researcher, Sardar Patel University, (2009) 
   * Insilico analysis of fusion proteins in cancer
 
-<br>
+
 Skills
 ======
 *	Proficient in development and distribution of automated bioinformatics pipelines for genomic data processing and analysis 
@@ -42,7 +42,7 @@ Skills
 	* Software: Arguslab, MolSoft, Rasmol, I-TASSER
 
 
-<br>
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -50,7 +50,7 @@ Publications
   {% endfor %}</ul>
   
 
-<br>
+
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -58,7 +58,7 @@ Talks
   {% endfor %}</ul>
   
   
-<br>
+
 Service
 ======
 * Manuscript reviewer: Plant Physiology, Frontiers in Plant Science, Frontiers in Genetics, Nature Scientific Reports, Rice, Plant Cell Reports
