@@ -11,30 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Bioinformatics, Sardar Patel Uni., India, 2007
+* M.S. in Bioinformatics, Sardar Patel Uni., India, 2009
+* Ph.D in Cell and Molecular Biology, Uni. of Arkansas, Fayettevile, USA 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2012: Research Assistant
+  * University of Arkansas
+  * Supervisor: Andy Pereira
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2017: Postdoctoral Associate
+  * University of Arkansas
+  * Supervisor: Andy Pereira
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
@@ -48,12 +39,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer
