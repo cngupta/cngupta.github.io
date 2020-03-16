@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/cngupta/"
   orcid            : "https://orcid.org/0000-0002-6121-7065"
   pinterest        :
   soundcloud       :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  reserachgate     : "https://www.researchgate.net/profile/Chirag_Gupta3"
 
 
 # Reading Files
