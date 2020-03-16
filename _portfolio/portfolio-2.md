@@ -1,8 +1,0 @@
----
-title: "StressApp"
-excerpt: "<br/><img src='/images/stressapp.png'>"
-collection: portfolio
----
-
-StressApp is a network-based machine learning framework for prediction and prioritization of Transcription Factors regulating stress responses. Check it out [here](http://rrn.uark.edu/shiny/apps/rrn)
-
