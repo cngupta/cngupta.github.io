@@ -1,7 +1,7 @@
 ---
 title: "The FATTY ACID DESATURASE2 family in tomato contributes to primary metabolism and stress responses"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-02-010FattyAcidTomato
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-02-01
 venue: 'Plant Physiology'
