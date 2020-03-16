@@ -5,5 +5,5 @@ collection: media
 ---
 
 
-U of A Doctoral Student Wins Award at International Research Conference
-Full story [here](https://news.uark.edu/articles/37819/u-of-a-doctoral-student-wins-award-at-international-research-conference)
+U of A Doctoral Student Wins Award at International Research Conference.
+Read full story [here](https://news.uark.edu/articles/37819/u-of-a-doctoral-student-wins-award-at-international-research-conference)
