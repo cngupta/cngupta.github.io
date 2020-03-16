@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Gene Networks"
+excerpt: "<br/><img src='/images/recon.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Coexpression networks help overcome the limitations of sparsity in gene functional annotations, by providing a means to transfer knowledge from annotated genes to genes yet unannotated, based on the 'guilt-by association' assumptions. RECoN is designed to identify clusters of functionally genes that tightly coexpress in a compendium of abiotic-stress gene expression experiments in rice.
