@@ -1,4 +1,5 @@
 ---
+title: "News"
 excerpt: "<br/><img src='/images/pag_award.jpg'>"
 collection: media
 ---
