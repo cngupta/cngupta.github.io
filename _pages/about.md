@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Chirag Gupta is a postdoctoral scientist in the Department of Crop, Soil and Environmental Sciences at the Universiy of Arkansas; research in computational biology; developer of StressApp and RECoN
+Chirag Gupta is a postdoctoral scientist in the [Department of Crop, Soil and Environmental Sciences](https://crop-soil-environmental-sciences.uark.edu/) at the [Universiy of Arkansas](https://www.uark.edu/); research in computational biology; developer of [StressApp](http://rrn.uark.edu/shiny/apps/rrn/) and [RECoN](https://plantstress-pereira.uark.edu/RECoN/).
 
 Chirag received a MS in bioinformatics in 2009 from the Sardar Patel University, India, and a PhD in computational biology in 2017, from the University of Arkansas, Fayetteville, USA; his PhD advisor was Andy Pereira, who continues to advise him through his postdoctoral training.
 
