@@ -15,16 +15,19 @@ Education
 * M.S. in Bioinformatics, Sardar Patel Uni., India, 2009
 * Ph.D in Cell and Molecular Biology, Uni. of Arkansas, Fayettevile, USA 2017
 
-Work experience
+Research anf professional experience
 ======
+* 2017: Postdoctoral Associate
+  * University of Arkansas
+  * Genomic data integration for crop genetics studies
+  
+  
 * Summer 2012: Research Assistant
   * University of Arkansas
   * Supervisor: Andy Pereira
+  * Transcriptome-based gene networks for systems-level analysis of plant gene function
 
-* Fall 2017: Postdoctoral Associate
-  * University of Arkansas
-  * Supervisor: Andy Pereira
-  
+
 
 
 Publications
@@ -42,4 +45,4 @@ Talks
   
 Service and leadership
 ======
-* Reviewer
+* Manuscript reviewer: Plant Physiology, Frontiers in Plant Science, Frontiers in Genetics, Nature Scientific Reports, Rice, Plant Cell Reports
