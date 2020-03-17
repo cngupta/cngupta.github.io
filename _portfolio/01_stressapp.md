@@ -1,5 +1,5 @@
 ---
-title: "Machine learning for gene prioritization"
+title: "Gene prioritization by learning from networks"
 excerpt: "<br/><img src='/images/datafusion.png'>"
 collection: portfolio
 ---

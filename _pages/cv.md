@@ -33,12 +33,14 @@ Skills
 ======
 *	Proficient in development and distribution of automated bioinformatics pipelines for genomic data processing and analysis 
 	* Environment: Linux, Docker, Google Cloud, Github 
-	* Programming: R, Perl; Software: Tophat, STAR, GATK, Samtools, HTSeq, MACS etc. 
+	* Programming: R, Perl; 
+	* Bioinformatics: Tophat, STAR, GATK, Samtools, HTSeq, MACS etc. 
 *	Proficient in statistical analysis of genomic data 
-	* Differential gene expression, coexpression networks, Clustering, support vector machines
-*	Proficient in development of web tools for data analysis and visualization 
+	* Differential gene expression (RNA-seq, microarrays), Anomaly detection in tumor DNA (exome-seq, DNA-seq, RNA-seq)
+	* Gene interaction networks, community detection, data integration, supervised machine learning
+*	Proficient in development of web-based tools for data analysis and visualization 
 	* Shiny, PHP, mySQL, CytoscapeWeb   
-*	Basic use of homology modeling and drug designing 
+*	Basic knowledge of homology modeling and docking 
 	* Software: Arguslab, MolSoft, Rasmol, I-TASSER
 
 
