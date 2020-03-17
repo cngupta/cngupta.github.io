@@ -13,6 +13,9 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Tutorials"
+    url: /tutorials/
+    
   - title: "Media"
     url: /media/
     

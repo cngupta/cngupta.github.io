@@ -166,7 +166,9 @@ collections:
   media:
     output: true
     permalink: /:collection/:path/  
-
+  tutorials:
+    output: true
+    permalink: /:collection/:path/ 
 
 # Defaults
 defaults:
@@ -227,6 +229,15 @@ defaults:
   - scope:
       path: ""
       type: media
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _tutorials
+  - scope:
+      path: ""
+      type: tutorials
     values:
       layout: single
       author_profile: true
