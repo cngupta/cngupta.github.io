@@ -83,38 +83,15 @@ author:
   name             : "Chirag Gupta"
   avatar           : "profile.jpg"
   bio              : "Computational Biologist"
-  location         : #"Fayetteville, Arkansas, USA"
-  employer         :
+  location         : "Arkansas, USA"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Chirag+Gupta+Arkansas"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=DatsM4kAAAAJ"
-  email            :
+  email            : "cxg040@uark.edu"
   researchgate     :  "https://www.researchgate.net/profile/Chirag_Gupta3"
   github           : "cngupta"
   twitter          : "chiraggupta_In"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  google_plus      :
-  keybase          :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : "cngupta"
-  orcid            : #"https://orcid.org/0000-0002-6121-7065"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-  instagram        : "chirag_in"
+  orcid            : "https://orcid.org/0000-0002-6121-7065"
 
 # Reading Files
 include:
