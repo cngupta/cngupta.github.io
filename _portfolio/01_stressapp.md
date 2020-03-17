@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ## Project Title:
-* Systems Genetics Studies on Rice Genomes for Analysis of Grain Yield and Quality Under Heat Stress
+* Systems Genetics Studies on Rice Genomes for Analysis of **Grain Yield** and **Quality** Under **Heat Stress**
   * Project PI: Andy Pereira, U Arkansas, Fayetteville
   * [RII Track-2 FEC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1826836&HistoricalAwards=false)
 
