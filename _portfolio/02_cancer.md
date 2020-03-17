@@ -10,5 +10,7 @@ The workflow is available as a [docker container](https://hub.docker.com/r/perei
 ======
 Projects
 * Scientific and Methodological Advancement in Liquid Biopsies to Further the Development of Lung Cancer-Based precision Medicine
-  * Project PI: Donald Johann Jr, UAMS, Little Rock
+  * Project PI: Donald Johann Jr, UAMS, Little Rock; Co-PI: Andy Pereira, U Arkansas, Fayetteville
+  * [weblink]("https://journals.sagepub.com/doi/abs/10.1177/1535370217750087")  	
+ 
 
