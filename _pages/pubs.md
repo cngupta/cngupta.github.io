@@ -7,7 +7,7 @@ redirect_from:
   - /papers
 ---
 
-{% include base_path %}
+
 
 The Arabidopsis Proteins AtNHR2A and AtNHR2B Are Multi-Functional Proteins Integrating Plant Immunity With Other Biological Processes
 Published in Front. Plant Sci., 2020
