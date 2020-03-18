@@ -6,12 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 
-#build settings 
-theme: Midnight
-
 # Site Settings
 locale                   : "en-US"
-title                    : "Chirag Gupta"
+title                    : "Computing for yield"
 title_separator          : "-"
 name                     : "Chirag Gupta"
 description              : "computational biologist"
