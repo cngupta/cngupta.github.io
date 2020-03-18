@@ -1,11 +1,10 @@
 ---
-permalink: /non-menu-page/
+layout: archive
 title: "Contact"
-excerpt: "Get in touch for collaboration"
+permalink: /contact/
 author_profile: true
-redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
+redirect_from:
+  - /resume
 ---
 
 
