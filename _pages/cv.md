@@ -31,14 +31,14 @@ Research Experience
 
 Skills
 ======
-*	Proficient in development and distribution of automated bioinformatics pipelines for genomic data processing and analysis 
+*	Proficient in development of automated bioinformatics pipelines for genomic data processing and analysis 
 	* Environment: Linux, Docker, Google Cloud, Github 
 	* Programming: R, Perl; 
 	* Bioinformatics: Tophat, STAR, GATK, Samtools, HTSeq, MACS etc. 
 *	Proficient in statistical analysis of genomic data 
 	* Differential gene expression (RNA-seq, microarrays), Anomaly detection in tumor DNA (exome-seq, DNA-seq, RNA-seq)
-	* Gene interaction networks, community detection, data integration, supervised machine learning
-*	Proficient in development of web-based tools for data analysis and visualization 
+	* Gene interaction networks, clustering, data integration, supervised machine learning
+*	Proficient in development of web-based tools for genomic data visualization 
 	* Shiny, PHP, mySQL, CytoscapeWeb   
 *	Basic knowledge of homology modeling and docking 
 	* Software: Arguslab, MolSoft, Rasmol, I-TASSER
