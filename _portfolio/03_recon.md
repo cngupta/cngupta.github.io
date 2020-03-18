@@ -4,7 +4,7 @@ excerpt: "<br/><img src='/images/networks.png'>"
 collection: portfolio
 ---
 
-####Go beyond GO!
+### Go beyond GO!
 
 Coexpression networks help overcome the **limitations of sparsity in gene functional annotations** by providing a means to transfer knowledge from annotated genes to genes yet unannotated, based on the 'guilt-by association' assumptions. 
 [RECoN](https://plantstress-pereira.uark.edu/RECoN/){: .btn .btn-outline} and [SANe](https://plantstress-pereira.uark.edu/SANe/){: .btn .btn-outline} are designed to identify clusters of functionally related genes that tightly coexpress in a compendium of abiotic-stress gene expression experiments in **rice** and seed development stages of **Arabidopsis**, respectively. Both these tools allow users to upload and analyze results from relevant **RNA-seq** experiments in context of the underlying coexpression networks. Output is list of clusters that changed most in the uploaded RNA-seq data. Novel (unannotated) genes in the top clusters become a set of **candidates** for further exploration. 
