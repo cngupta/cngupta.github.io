@@ -30,17 +30,17 @@ We will need the following software for the workflow
 
 ## Setting up project directory
 
-<pre>mkdir rnaproj</pre>
-<pre>cd rnaproj</pre>
-<pre>mkdir raw outputs</pre>
-<pre>mkdir outputs/bams outputs/counts</pre>
+<pre>mkdir rnaproj
+cd rnaproj
+mkdir raw outputs
+mkdir outputs/bams outputs/counts</pre>
 
 ## Obtaining tutorial data
 
 We will develop our workflow with this Arabidopsis dataset from GEO. Run this command from the directory you want to store raw data.
-<pre>cd raw</pre>
-<pre> fastq-dump SRR3498212 SRR3498213, SRR3498215,and SRR3498216 </pre>
-<pre>cd ..</pre>
+<pre>cd raw
+fastq-dump 
+cd ..</pre>
 
 
 ## Alignment
@@ -60,5 +60,5 @@ This will produce files with .bam extension in the bamfiles directory. Each of t
 This will produce an html file looking something like this. It shows that our alognment rate is approx.....
 
 ## Read counting
-<>
+
 
