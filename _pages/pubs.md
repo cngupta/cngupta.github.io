@@ -1,12 +1,3 @@
----
-layout: archive
-title: ""
-permalink: /pubs/
-author_profile: true
-redirect_from:
-  - /papers
----
-
 
 This tutorial will guide you through analysis of your first RNA-seq dataset. We will go through installing software we will need. If you are working on your university’s cluster, you should already have these software installed (or you can ask the caretakers of the cluster to install it for you). In that case, skip the installation section and start working from step 2. 
  
