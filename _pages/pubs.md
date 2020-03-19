@@ -9,33 +9,19 @@ We will develop our workflow with this Arabidopsis dataset from GEO. But our int
 
   
 1. ## Setting up a project workspace
-We will need sequencing read aligners (Tophat2 and STAR), read counter (htseq) and R packages for differential expression estimations (limma and edgeR). 
+* We will need sequencing read aligners (Tophat2 and STAR), read counter (htseq) and R packages for differential expression estimations (limma and edgeR). 
 
-For this tutorial, I chose this Arabidopsis thaliana dataset that we can obtain from GEO. Before we begin our analysis, let’s set up a project directory under which we will create subdirectories storing results from every step of our analysis. We will also log our exact commands in a separate file. I call these files runlog. I will not explain why it is important to record what you do. 
+* For this tutorial, I chose this Arabidopsis thaliana dataset that we can obtain from GEO. Before we begin our analysis, let’s set up a project directory under which we will create subdirectories storing results from every step of our analysis. We will also log our exact commands in a separate file. I call these files runlog. I will not explain why it is important to record what you do. 
 
-<pre>
-mkdir tutorial
-cd tutorial
-mkdir genome
-cd genome
-mkdir star_index
-cd ../
-mkdirkdir raw
-mkdir outputs
-cd outputs
-mkdir bamfiles
-mkdir countfiles
-mkdir exprfiles
-cd ../
-</pre>
+
 
 2. ## Alignment
 
-We will use the STAR aligner to map our reads to the reference genome. But first, we will need to create an index for the reference genome. 
+* We will use the STAR aligner to map our reads to the reference genome. But first, we will need to create an index for the reference genome. 
 
 <pre> /path/to/star index </pre>
 
-This will create index files in the star_index directory. Next, we will start aligning the reads in our fastq files to the reference genome. 
+* This will create index files in the star_index directory. Next, we will start aligning the reads in our fastq files to the reference genome. 
 
 <pre> /path/to/star/ </pre> 
 
