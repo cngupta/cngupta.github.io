@@ -4,7 +4,7 @@ title: ""
 permalink: /newpublications/
 author_profile: true
 redirect_from:
-  - /papers
+  - /test
 ---
 
 
