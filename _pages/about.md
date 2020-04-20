@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computational biologist at the [Dept. of Crop, Soil and Environmental Sciences](https://crop-soil-environmental-sciences.uark.edu/){:target="_blank"}, Universiy of Arkansas, working on functional impacts of genetic variation in crops, gene interaction networks and methods to integrate heterogenous agri-genomics data. I recently developed the [StressApp](http://rrn.uark.edu/shiny/apps/rrn/){:target="_blank"} for rice systems biology research.
+I am a computational biologist at the [Dept. of Crop, Soil and Environmental Sciences](https://crop-soil-environmental-sciences.uark.edu/){:target="_blank"}, Universiy of Arkansas, working on functional impacts of genetic variation in crops, gene interaction networks and methods to integrate heterogenous agri-genomics data. I recently developed the [DroughtApp](http://rrn.uark.edu/shiny/apps/rrn/){:target="_blank"} for rice systems biology research.
 
 I received **MS in bioinformatics** in 2009 from the Sardar Patel University, India, and **PhD in cell and molecular biology** in 2017, from the University of Arkansas, Fayetteville, USA. My advisor was [Andy Pereira](https://crop-soil-environmental-sciences.uark.edu/people/faculty-directory/uid/apereira/name/Andy+Pereira/){:target="_blank"}. 
 
