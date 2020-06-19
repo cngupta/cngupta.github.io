@@ -8,10 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a computational biologist at the [Dept. of Crop, Soil and Environmental Sciences](https://crop-soil-environmental-sciences.uark.edu/){:target="_blank"}, Universiy of Arkansas, working on functional impacts of genetic variation in crops, gene interaction networks and methods to integrate heterogenous agri-genomics data. I recently developed the [DroughtApp](http://rrn.uark.edu/shiny/apps/rrn/){:target="_blank"} for rice systems biology research.
+The foundation of my research philosophy is based on the fact that genes do not work in isolation; 
+they function in networks comprising of multiple genes that partner to achieve a common cellular goal. 
+I believe that the cornerstone of future crop improvement programs and precision healthcare is 
+identifying **network communities that are activated by external environmental cues, such as occurrence of stress or disease**. 
+With quickly evolving genomic technologies that allow data generation at unprecedented levels, I am enthusiastic about the 
+potential of **data-driven** computational approaches for generating reliable targets for downstream experimentation and decision making, 
+for example **genetic engineering** of desired crop traits, or identification of **diagnostic markers**. 
 
-I received **MS in bioinformatics** in 2009 from the Sardar Patel University, India, and **PhD in cell and molecular biology** in 2017, from the University of Arkansas, Fayetteville, USA. My advisor was [Andy Pereira](https://crop-soil-environmental-sciences.uark.edu/people/faculty-directory/uid/apereira/name/Andy+Pereira/){:target="_blank"}. 
 
-The foundation of my research philosophy is based on the fact that genes in living cells do not work in isolation; they function in networks comprising of multiple genes with common cellular role. I believe that the cornerstone of future crop improvement programs is identifying **network communities that are activated by external environments, such as occurrence of stress or disease**. With quickly evolving genomic technologies that allow data generation at unprecedented levels, I am enthusiastic about the potential of **data-driven** computational approaches for generating reliable targets for **genetic engineering** of desired crop traits.
+I am currently a postdoctoral scientist at the Universiy of Arkansas, USA. As a plant computational biologist, 
+my objective is to develop methods for integrating the vast amounts of continuously accumulating high-throughput -omics data, 
+for the purposes of developing predictive machine learning models and platforms that will enable wet lab scientists 
+design effective downstream experiments. A recent example is the [DroughtApp](http://rrn.uark.edu/shiny/apps/rrn/){:target="_blank"}.
+
+
+My previous projects include 1) Transcriptome-based gene networks for systems-level analysis of 
+gene function, 2) Optimization of pipelines to predict high-quality SNVs and InDels from tumor sequencing data, and
+3) Methods to integrate GWAS with coexpression networks.
+
 
 
