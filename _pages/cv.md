@@ -20,14 +20,14 @@ Education
 
 Employment History 
 ======
-* **Postdoctoral Research Associate**, University of Arkansas, (2017 - present)
+* **Postdoctoral Research Associate**, University of Arkansas, USA (2017 - present)
   * Rice genetic variation, integration of multi-omics data, methods for gene prioritization
 
-* **Research Assistant**, University of Arkansas, (2012 - 2017)
+* **Research Assistant**, University of Arkansas, USA (2012 - 2017)
   * Transcriptome-based gene networks for systems-level analysis of plant gene functions
   * Supervisor: Andy Pereira
   
-* **Student Researcher**, Disha Life Sciences Pvt. Ltd, (2011) 
+* **Student Researcher**, Disha Life Sciences Pvt. Ltd, India, (2011) 
   * Insilico analysis of fusion proteins in cancer
 
 
@@ -35,47 +35,47 @@ Employment History
 Publications
 ======
 **Under review / preprints**
-* **Chirag Gupta**, Venkategowda Ramegowda, Supratim Basu, Andy Pereira. Prediction and characterization of transcription factors involved in drought stress response bioRxiv, doi: 10.1101/2020.04.29.068379 (under review)
-* **Chirag Gupta**, Arjun Krishnan, Andrew Schneider, Cynthia Denbow, Eva Collakova, Pawel Wolinski, Andy Pereira. SANe: The Seed Active Network for Discovering Transcriptional Regulatory Programs of Seed Development. bioRxiv, doi: 10.1101/165894 (The platform is currently being updated to add multiple plant species)
+1. **Chirag Gupta**, Venkategowda Ramegowda, Supratim Basu, Andy Pereira. Prediction and characterization of transcription factors involved in drought stress response bioRxiv, doi: 10.1101/2020.04.29.068379 (under review)
+2. **Chirag Gupta**, Arjun Krishnan, Andrew Schneider, Cynthia Denbow, Eva Collakova, Pawel Wolinski, Andy Pereira. SANe: The Seed Active Network for Discovering Transcriptional Regulatory Programs of Seed Development. bioRxiv, doi: 10.1101/165894 (The platform is currently being updated to add multiple plant species)
 
 **Peer reviewed**
-* Raksha Singh, Rohana Liyanage, **Chirag Gupta**, Jackson Lay Jr., Andy Pereira, Clemencia Rojas. The protein interactomes of AtNHR2A and AtNHR2B unraveled common and specialized functions in plant immunity integrating distinct biological processes. **Frontiers in Plant Science**, March 2020. doi: 10.3389/fpls.2020.00232.
-* Min Woo Lee, Carmen S. Padilla, **Chirag Gupta**, Aravind Galla, Andy Pereira, Jiamei Li, Fiona L. Goggin. The FATTY ACID DESATURASE 2 family in tomato contributes to primary metabolism and stress responses. **Plant Physiology**, Nov. 2019. doi:10.1104/pp.19.00487
-* **Chirag Gupta** and Andy Pereira. Recent advances in gene function prediction using context-specific coexpression networks in plants. **F1000Research**, Feb. 2019. doi: 10.12688/f1000research.17207.1.
-* Arjun Krishnan, **Chirag Gupta**, Madana MR Ambavaram, Andy Pereira. RECoN: Rice Environment Co-expression Network for systems level analysis of abiotic-stress response. **Frontiers in Plant Science**, Sep. 2017. doi: 10.3389/fpls.2017.01640
-* Venkategowda Ramegowda, Upinder Singh Gill, Palaiyur Nanjappan Sivalingam, Aarti Gupta, **Chirag Gupta**, Geetha Govind, Karaba N Nataraja, Andy Pereira, Makarla Udayakumar, Kirankumar S Mysore, Muthappa Senthil-Kumar. GBF3 transcription factor imparts drought tolerance in Arabidopsis thaliana. **Scientific Reports**, August 2017. doi: 10.1038/s41598-017-09542-1.
-* Venkategowda Ramegowda, Supratim Basu, **Chirag Gupta**, Andy Pereira. Regulation of grain yield in rice under well-watered and drought stress conditions by GUDK. **Plant Signaling and Behavior**, January 2015. doi: 10.1080/15592324.2015.1034421.
+1. Raksha Singh, Rohana Liyanage, **Chirag Gupta**, Jackson Lay Jr., Andy Pereira, Clemencia Rojas. The protein interactomes of AtNHR2A and AtNHR2B unraveled common and specialized functions in plant immunity integrating distinct biological processes. **Frontiers in Plant Science**, March 2020. doi: 10.3389/fpls.2020.00232.
+2. Min Woo Lee, Carmen S. Padilla, **Chirag Gupta**, Aravind Galla, Andy Pereira, Jiamei Li, Fiona L. Goggin. The FATTY ACID DESATURASE 2 family in tomato contributes to primary metabolism and stress responses. **Plant Physiology**, Nov. 2019. doi:10.1104/pp.19.00487
+3. **Chirag Gupta** and Andy Pereira. Recent advances in gene function prediction using context-specific coexpression networks in plants. **F1000Research**, Feb. 2019. doi: 10.12688/f1000research.17207.1.
+4. Arjun Krishnan, **Chirag Gupta**, Madana MR Ambavaram, Andy Pereira. RECoN: Rice Environment Co-expression Network for systems level analysis of abiotic-stress response. **Frontiers in Plant Science**, Sep. 2017. doi: 10.3389/fpls.2017.01640
+5. Venkategowda Ramegowda, Upinder Singh Gill, Palaiyur Nanjappan Sivalingam, Aarti Gupta, **Chirag Gupta**, Geetha Govind, Karaba N Nataraja, Andy Pereira, Makarla Udayakumar, Kirankumar S Mysore, Muthappa Senthil-Kumar. GBF3 transcription factor imparts drought tolerance in Arabidopsis thaliana. **Scientific Reports**, August 2017. doi: 10.1038/s41598-017-09542-1.
+6. Venkategowda Ramegowda, Supratim Basu, **Chirag Gupta**, Andy Pereira. Regulation of grain yield in rice under well-watered and drought stress conditions by GUDK. **Plant Signaling and Behavior**, January 2015. doi: 10.1080/15592324.2015.1034421.
 
 **Published project reports**	
-* Anuj Kumar, Sara Yingling, Julie Thomas, Charles Ruiz, Yheni Dwiningsih, **Chirag Gupta**, Paul Counce, T.J. Siebenmorgen, Karen A.K. Moldenhauer, Andy Pereira. Screening of Indica and Japonica rice subspecies for grain yield and quality under high nighttime temperature. B.R. Wells Arkansas Rice Research Studies 2018, 659:61-66.
-* Ramegowda Venkategowda, Subodh Srivastava, Julie Thomas, **Chirag Gupta**, Supratim Basu, Paul Counce, Ya-Jane Wang, Terry Siebenmorgen, Karen Moldenhauer, Andy Pereira. Genetic basis of altered grain quality in different rice cultivars under high nighttime temperature. B.R. Wells Arkansas Rice Research Studies 2015, 634:79-85.
+1. Anuj Kumar, Sara Yingling, Julie Thomas, Charles Ruiz, Yheni Dwiningsih, **Chirag Gupta**, Paul Counce, T.J. Siebenmorgen, Karen A.K. Moldenhauer, Andy Pereira. Screening of Indica and Japonica rice subspecies for grain yield and quality under high nighttime temperature. B.R. Wells Arkansas Rice Research Studies 2018, 659:61-66.
+2. Ramegowda Venkategowda, Subodh Srivastava, Julie Thomas, **Chirag Gupta**, Supratim Basu, Paul Counce, Ya-Jane Wang, Terry Siebenmorgen, Karen Moldenhauer, Andy Pereira. Genetic basis of altered grain quality in different rice cultivars under high nighttime temperature. B.R. Wells Arkansas Rice Research Studies 2015, 634:79-85.
 
 
 
 Conference Presentations 
 ======
 **Talks**
-*	Predicting rice genes important for drought tolerance using gene regulatory networks and machine learning. Crops InSilico, 4th Annual Symposium and Hackathon, Urbana, IL, 3rd May 2019
-*	Arabidopsis seed-filling association-network analysis. American Society of Plant Biologists – Southern Section (ASPB-SS), Lexington, KY, 30th March 2014
+1.	Predicting rice genes important for drought tolerance using gene regulatory networks and machine learning. Crops InSilico, 4th Annual Symposium and Hackathon, Urbana, IL, 3rd May 2019
+2.	Arabidopsis seed-filling association-network analysis. American Society of Plant Biologists – Southern Section (ASPB-SS), Lexington, KY, 30th March 2014
 
 **Select posters** 
-*	Network-based approach to prioritize lung cancer genes from whole-exome sequencing data. AR-BIC, Little Rock, AR, 25th March 2018
-*	Differential Co-expression: A new paradigm for identification of candidate genes from expression data. AR-BIC, Little Rock, AR, 24th April 2017 
-*	An abiotic-stress conditioned gene regulatory network in rice predicted using an ensemble of reverse-engineering solutions. The 25th Plant and Animal Genome (PAG) Conference, San Diego, CA, 14th January 2017
-*	A resource for systems analysis of stress response in rice. NSF Workshop on plant development and drought stress, Monterey, CA, 8th November 2015
-*	StarchNet: Implications of high night-time temperature on starch metabolism regulatory networks in rice. AR NSF EPSCoR Annual Meeting, Fayetteville, AR, 15th September 2015
-*	In Silico Analysis of Fusion Proteins in Cancer, International Conference on Biomedical and Genomic Research, Ahmedabad, India, 30th January 2009
+1.	Network-based approach to prioritize lung cancer genes from whole-exome sequencing data. AR-BIC, Little Rock, AR, 25th March 2018
+2.	Differential Co-expression: A new paradigm for identification of candidate genes from expression data. AR-BIC, Little Rock, AR, 24th April 2017 
+3.	An abiotic-stress conditioned gene regulatory network in rice predicted using an ensemble of reverse-engineering solutions. The 25th Plant and Animal Genome (PAG) Conference, San Diego, CA, 14th January 2017
+4.	A resource for systems analysis of stress response in rice. NSF Workshop on plant development and drought stress, Monterey, CA, 8th November 2015
+5.	StarchNet: Implications of high night-time temperature on starch metabolism regulatory networks in rice. AR NSF EPSCoR Annual Meeting, Fayetteville, AR, 15th September 2015
+6.	In Silico Analysis of Fusion Proteins in Cancer, International Conference on Biomedical and Genomic Research, Ahmedabad, India, 30th January 2009
 
 
 
 Awards
 ======
-*	Crops in silico underrepresented minority travel scholarship, **Crops InSilico**, Urbana, IL, 2019
-*	Scherago International Student Travel Grants Awards, **The 25th annual Plant and Animal Genome (PAG) meeting**, San Diego, CA, 2017
-*	NSF Travel Grant to attend the Workshop on Plant Development and Drought Stress, **National Science Foundation**, 2015
-*	Stood 3rd in merit list for all India entrance examination for Master’s in bioinformatics program, **Sardar Patel University**, India, 2007   
-*	2nd Prize in undergraduate oral presentation, **Sardar Patel University**, India, 2006
-*	3rd Prize in undergraduate poster competition, **Atmiya University**, India , 2006
+1.	Crops in silico underrepresented minority travel scholarship, **Crops InSilico**, Urbana, IL, 2019
+2.	Scherago International Student Travel Grants Awards, **The 25th annual Plant and Animal Genome (PAG) meeting**, San Diego, CA, 2017
+3.	NSF Travel Grant to attend the Workshop on Plant Development and Drought Stress, **National Science Foundation**, 2015
+4.	Stood 3rd in merit list for all India entrance examination for Master’s in bioinformatics program, **Sardar Patel University**, India, 2007   
+5.	2nd Prize in undergraduate oral presentation, **Sardar Patel University**, India, 2006
+6.	3rd Prize in undergraduate poster competition, **Atmiya University**, India , 2006
 
 
 
