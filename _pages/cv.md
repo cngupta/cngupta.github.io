@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+*[Download PDF]{"http://cngupta.github.io/cgupta_cv.pdf"}
+
+
 Education
 ======
 * Ph.D in Cell and Molecular Biology, University of Arkansas, USA, 2017 
@@ -29,21 +32,6 @@ Research Experience
   * Insilico analysis of fusion proteins in cancer
 
 
-Skills
-======
-*	Proficient in development of automated bioinformatics pipelines for genomic data processing and analysis 
-	* Environment: Linux, Docker, Google Cloud, Github 
-	* Programming: R, Perl; 
-	* Bioinformatics: Tophat, STAR, GATK, Samtools, HTSeq, MACS etc. 
-*	Proficient in statistical analysis of genomic data 
-	* Differential gene expression (RNA-seq, microarrays), Anomaly detection in tumor DNA (exome-seq, DNA-seq, RNA-seq)
-	* Gene interaction networks, clustering, data integration, supervised machine learning
-*	Proficient in development of web-based tools for genomic data visualization 
-	* Shiny, PHP, mySQL, CytoscapeWeb   
-*	Basic knowledge of homology modeling and docking 
-	* Software: Arguslab, MolSoft, Rasmol, I-TASSER
-
-
 
 Publications
 ======
@@ -52,17 +40,3 @@ Publications
   {% endfor %}</ul>
   
 
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-  
-
-Service
-======
-* Manuscript reviewer: Plant Physiology, Frontiers in Plant Science, Frontiers in Genetics, Nature Scientific Reports, Rice, Plant Cell Reports
-* Plante Fellow 2019: Contribution to the Plantae online portal for bioinformatics resources relevant to plant biology research  
-* STEM literacy outreach programs for undergraduates and K-12 students 
