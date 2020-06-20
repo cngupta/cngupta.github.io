@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 [Download PDF](https://cngupta.github.io/cgupta_cv.pdf) 
 
