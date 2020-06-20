@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-*[Download PDF](https://cngupta.github.io/cgupta_cv.pdf) 
+[Download PDF](https://cngupta.github.io/cgupta_cv.pdf) 
 
 Education
 ======
