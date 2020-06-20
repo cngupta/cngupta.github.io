@@ -34,11 +34,11 @@ Employment History
 
 Publications
 ======
-Under review / preprints
+**Under review / preprints**
 * **Chirag Gupta**, Venkategowda Ramegowda, Supratim Basu, Andy Pereira. Prediction and characterization of transcription factors involved in drought stress response bioRxiv, doi: 10.1101/2020.04.29.068379 (under review)
 * **Chirag Gupta**, Arjun Krishnan, Andrew Schneider, Cynthia Denbow, Eva Collakova, Pawel Wolinski, Andy Pereira. SANe: The Seed Active Network for Discovering Transcriptional Regulatory Programs of Seed Development. bioRxiv, doi: 10.1101/165894 (The platform is currently being updated to add multiple plant species)
 
-Peer reviewed
+**Peer reviewed**
 * Raksha Singh, Rohana Liyanage, **Chirag Gupta**, Jackson Lay Jr., Andy Pereira, Clemencia Rojas. The protein interactomes of AtNHR2A and AtNHR2B unraveled common and specialized functions in plant immunity integrating distinct biological processes. **Frontiers in Plant Science**, March 2020. doi: 10.3389/fpls.2020.00232.
 * Min Woo Lee, Carmen S. Padilla, **Chirag Gupta**, Aravind Galla, Andy Pereira, Jiamei Li, Fiona L. Goggin. The FATTY ACID DESATURASE 2 family in tomato contributes to primary metabolism and stress responses. **Plant Physiology**, Nov. 2019. doi:10.1104/pp.19.00487
 * **Chirag Gupta** and Andy Pereira. Recent advances in gene function prediction using context-specific coexpression networks in plants. **F1000Research**, Feb. 2019. doi: 10.12688/f1000research.17207.1.
@@ -57,6 +57,7 @@ Conference Presentations
 **Talks**
 *	Predicting rice genes important for drought tolerance using gene regulatory networks and machine learning. Crops InSilico, 4th Annual Symposium and Hackathon, Urbana, IL, 3rd May 2019
 *	Arabidopsis seed-filling association-network analysis. American Society of Plant Biologists – Southern Section (ASPB-SS), Lexington, KY, 30th March 2014
+
 **Select posters** 
 *	Network-based approach to prioritize lung cancer genes from whole-exome sequencing data. AR-BIC, Little Rock, AR, 25th March 2018
 *	Differential Co-expression: A new paradigm for identification of candidate genes from expression data. AR-BIC, Little Rock, AR, 24th April 2017 
