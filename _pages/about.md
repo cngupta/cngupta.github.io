@@ -10,7 +10,7 @@ redirect_from:
 
 
 I am currently a **Postdoctoral Scientist** at the **Universiy of Wisconsin**, Madison, USA. As a computational biologist, 
-my objective is to develop open-source frameworks for genomic data analysis. I am interested in developing  **predictive machine learning models** and platforms to enable wet lab scientists design effective downstream experiments. A recent example is the [GRAiN] app (http://rrn.uark.edu/shiny/apps/GRAiN/){:target="_blank"}.
+my objective is to develop open-source frameworks for genomic data analysis. I am interested in developing  **predictive machine learning models** and platforms to enable wet lab scientists design effective downstream experiments. A recent example is  [GRAiN](http://rrn.uark.edu/shiny/apps/GRAiN/){:target="_blank"}.
 
 
 **Network Biology**
