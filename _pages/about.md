@@ -9,13 +9,11 @@ redirect_from:
 ---
 
 
-I am currently a **Postdoctoral Scientist** at the **Universiy of Arkansas**, USA. As a computational biologist, 
-my objective is to develop methods for integrating the vast amounts of continuously accumulating high-throughput -omics data, 
-for the purposes of developing **predictive machine learning models** and platforms that will enable wet lab scientists 
-design **effective downstream experiments**. A recent example is the [DroughtApp](http://rrn.uark.edu/shiny/apps/rrn/){:target="_blank"}.
+I am currently a **Postdoctoral Scientist** at the **Universiy of Wisconsin**, Madison, USA. As a computational biologist, 
+my objective is to develop open-source frameworks for genomic data analysis. I am interested in developing  **predictive machine learning models** and platforms to enable wet lab scientists design effective downstream experiments. A recent example is the [GRAiN] app (http://rrn.uark.edu/shiny/apps/GRAiN/){:target="_blank"}.
 
 
-
+**Network Biology**
 The foundation of my research philosophy is based on the fact that genes do not work in isolation; 
 they function in networks comprising of multiple genes that partner to achieve a common cellular goal. 
 I believe that the cornerstone of future crop improvement programs and precision healthcare is 
@@ -24,7 +22,7 @@ With quickly evolving genomic technologies that allow data generation at unprece
 potential of **data-driven** computational approaches for generating reliable targets for downstream experimentation and decision making, 
 for example **genetic engineering** of desired crop traits, or identification of reliable **diagnostic markers**. 
 
-
+I am currently working on a number of exciting projects in computational neuroscience.
 
 My previous projects include 1) Transcriptome-based **gene networks** for systems-level analysis of 
 gene function, 2) Optimization of pipelines to predict high-quality **SNVs and InDels from tumor sequencing data**, and
