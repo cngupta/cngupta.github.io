@@ -20,8 +20,12 @@ Education
 
 Employment History 
 ======
-* **Postdoctoral Research Associate**, University of Arkansas, USA (2017 - present)
-  * Rice genetic variation, integration of multi-omics data, methods for gene prioritization
+
+* **Postdoctoral Research Associate**, University of Wisconsin, Madison, USA (2021 - present)
+  * Gene regulatory networks of the human brain cell-types 
+  
+* **Postdoctoral Research Associate**, University of Arkansas, USA (2017 - 2020)
+  * Plant genomics, regulatory networks, webtools
 
 * **Research Assistant**, University of Arkansas, USA (2012 - 2017)
   * Transcriptome-based gene networks for systems-level analysis of plant gene functions
