@@ -13,7 +13,7 @@ I am currently a **Postdoctoral Scientist** at the **Universiy of Wisconsin**, M
 my objective is to develop open-source frameworks for genomic data analysis. I am interested in developing  **predictive machine learning models** and platforms to enable wet lab scientists design effective downstream experiments. A recent example is  [GRAiN](http://rrn.uark.edu/shiny/apps/GRAiN/){:target="_blank"}.
 
 
-**Network Biology**
+**Network Biology**<br>
 The foundation of my research philosophy is based on the fact that genes do not work in isolation; 
 they function in networks comprising of multiple genes that partner to achieve a common cellular goal. 
 I believe that the cornerstone of future crop improvement programs and precision healthcare is 
