@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently a **Postdoctoral Scientist** at the **Universiy of Wisconsin**, Madison, USA. As a computational biologist, my objective is to develop computational pipelines and frameworks for multimodal biological data analysis. I apply  machine learning and AI tools to identify genetic factors associated with human diseases and agricultural traits in crop species.  
+Bioinformatics Scientist with 4+ years of postdoctoral experience in research and analysis of genomics data. I am interested in developing computational approaches to glean actionable insights from large-scale multi-omics data. I am currently working on building machine learning models to guide biomarker discovery and assist in clinical decision making. I have extensive experience in written and oral communication to academics and business leaders through contributions to winning grants, 12+ peer reviewed publications, and several conference appearances.
 
 **Network Biology**<br>
 The foundation of my research philosophy is based on the fact that genes do not work in isolation;
