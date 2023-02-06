@@ -11,7 +11,8 @@ collection: portfolio
 
 
 ## Description
-[DroughtApp](http://rrn.uark.edu/shiny/apps/rrn/){: .btn .btn-outline} is a R/Shiny based app that uses machine learning to predict Transcription Factors that likely regulate abiotic stress responses. Initial nested cross-validation tests showed high accuracy in predicting known drought genes, while revealing some interesting characteristics of drought response in plants. Manuscript under development.
+[GRAiN](http://rrn.uark.edu/shiny/apps/rrn/){: .btn .btn-outline} is a R/Shiny based app that uses machine learning to predict Transcription Factors that likely regulate drought stree in rice. Initial nested cross-validation tests showed high accuracy in predicting known drought genes, while revealing some interesting characteristics of drought response in plants. [Read masnucript](https://www.frontiersin.org/articles/10.3389/fgene.2021.652189/full)
+
     	
  
 
