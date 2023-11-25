@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Bioinformatics Scientist with 4+ years of postdoctoral experience in research and analysis of genomics data. I am interested in developing computational approaches to glean actionable insights from large-scale multi-omics data. I am currently working on building machine learning models to guide biomarker discovery and assist in clinical decision making. I have extensive experience in written and oral communication to academics and business leaders through contributions to winning grants, 12+ peer reviewed publications, and several conference appearances.
+Bioinformatics Scientist with 10+ years of experience in research and analysis of genomics data. I am interested in developing computational approaches to glean actionable insights from large-scale multi-omics data. I am currently working on building machine learning models to guide biomarker discovery and assist in clinical decision making. I have extensive experience in written and oral communication to academics and business leaders through contributions to winning grants, 12+ peer reviewed publications, and several conference appearances.
 
 **Mining multi-omics for disease-gene and drug discovery**<br>
 
